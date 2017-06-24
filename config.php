@@ -61,6 +61,6 @@ return [
      */
 
     'siteName' => 'My Katana Blog',
-
+    'authorName' => 'Paul Barnabas',
     'siteDescription' => 'This is powered by Katana',
 ];
